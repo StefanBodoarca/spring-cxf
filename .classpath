@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/xmlsec-2.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/xmlschema-core-2.2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/xml-resolver-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/xmlgraphics-commons-2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/wsdl4j-1.6.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/woodstox-core-5.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/validation-policy-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/validation-api-1.1.0.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/unbescape-1.1.6.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/txw2-2.3.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/thymeleaf-spring5-3.0.11.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/thymeleaf-layout-dialect-2.4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/thymeleaf-expression-processor-1.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/thymeleaf-3.0.11.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/swagger-ui-3.24.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/swagger-models-2.0.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/swagger-jaxrs2-2.0.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/swagger-integration-2.0.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/swagger-core-2.0.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/swagger-annotations-2.0.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/stax-ex-1.8.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/stax2-api-3.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/spring-webmvc-5.2.1.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/spring-web-5.2.1.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/spring-tx-5.2.1.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/spring-security-web-5.2.1.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/spring-security-core-5.2.1.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/spring-security-config-5.2.1.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/spring-oxm-5.2.1.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/spring-jdbc-5.2.1.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/spring-jcl-5.2.1.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/spring-expression-5.2.1.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/spring-core-5.2.1.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/spring-context-support-5.2.1.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/spring-context-5.2.1.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/spring-beans-5.2.1.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/spring-aop-5.2.1.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/specs-xmldsig-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/specs-xades-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/specs-validation-report-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/specs-trusted-list-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/snakeyaml-1.23.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/slf4j-api-1.7.30.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/qdox-1.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/popper.js-1.14.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/pdfbox-2.0.18.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/neethi-3.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/logback-core-1.2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/logback-classic-1.2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/jsr305-3.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/jquery-3.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/jcl-over-slf4j-1.7.30.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/jaxws-api-2.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/jaxb-runtime-2.3.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/jaxb-impl-2.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/jaxb-core-2.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/jaxb-api-2.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/javax.xml.soap-api-1.4.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/javax.annotation-api-1.3.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/javax.activation-1.2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/javassist-3.22.0-GA.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/jakarta.ws.rs-api-2.1.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/jakarta.activation-api-1.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/jai-core-1.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/jai-codec-1.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/jackson-module-jaxb-annotations-2.10.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/jackson-jaxrs-json-provider-2.10.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/jackson-jaxrs-base-2.10.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/jackson-datatype-jsr310-2.9.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/jackson-dataformat-yaml-2.9.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/jackson-databind-2.10.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/jackson-core-2.10.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/jackson-annotations-2.10.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/j2objc-annotations-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/istack-commons-runtime-3.0.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/httpcore-4.4.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/httpclient-4.5.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/hsqldb-2.5.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/HikariCP-3.4.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/hibernate-validator-5.4.2.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/guava-28.2-jre.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/groovy-2.4.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/freemarker-2.3.29.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/fop-util-2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/fop-events-2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/fop-core-2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/fontbox-2.0.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/font-awesome-4.7.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/FastInfoset-1.2.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/failureaccess-1.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/error_prone_annotations-2.3.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-xades-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-validation-soap-client-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-validation-soap-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-validation-server-common-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-validation-rest-client-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-validation-rest-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-validation-dto-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-utils-google-guava-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-utils-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-tsl-validation-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-token-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-timestamp-remote-soap-client-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-timestamp-remote-soap-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-timestamp-remote-rest-client-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-timestamp-remote-rest-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-timestamp-remote-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-timestamp-dto-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-spi-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-simple-report-jaxb-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-simple-certificate-report-jaxb-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-signature-soap-client-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-signature-soap-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-signature-rest-client-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-signature-rest-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-signature-remote-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-signature-dto-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-service-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-server-signing-soap-client-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-server-signing-soap-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-server-signing-rest-client-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-server-signing-rest-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-server-signing-dto-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-server-signing-common-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-policy-jaxb-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-pades-pdfbox-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-pades-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-model-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-mock-tsa-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-jaxb-parsers-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-i18n-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-enumerations-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-document-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-diagnostic-jaxb-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-detailed-report-jaxb-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-crl-parser-stream-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-crl-parser-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-common-remote-dto-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-common-remote-converter-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-certificate-validation-soap-client-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-certificate-validation-soap-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-certificate-validation-rest-client-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-certificate-validation-rest-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-certificate-validation-dto-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-certificate-validation-common-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-cades-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-asic-xades-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-asic-common-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/dss-asic-cades-5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/cxf-rt-ws-policy-3.3.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/cxf-rt-wsdl-3.3.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/cxf-rt-ws-addr-3.3.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/cxf-rt-transports-http-3.3.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/cxf-rt-security-3.3.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/cxf-rt-rs-service-description-swagger-ui-3.3.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/cxf-rt-rs-service-description-openapi-v3-3.3.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/cxf-rt-rs-service-description-common-openapi-3.3.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/cxf-rt-rs-service-description-3.3.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/cxf-rt-frontend-simple-3.3.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/cxf-rt-frontend-jaxws-3.3.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/cxf-rt-frontend-jaxrs-3.3.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/cxf-rt-features-logging-3.3.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/cxf-rt-databinding-jaxb-3.3.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/cxf-rt-bindings-xml-3.3.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/cxf-rt-bindings-soap-3.3.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/cxf-core-3.3.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/commons-lang3-3.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/commons-io-2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/commons-fileupload-1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/commons-codec-1.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/classmate-1.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/classgraph-4.6.32.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/checker-qual-2.10.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/bootstrap-4.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/bcprov-jdk15on-1.64.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/bcpkix-jdk15on-1.64.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/batik-xml-1.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/batik-util-1.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/batik-transcoder-1.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/batik-svggen-1.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/batik-svg-dom-1.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/batik-script-1.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/batik-parser-1.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/batik-i18n-1.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/batik-gvt-1.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/batik-extension-1.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/batik-ext-1.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/batik-dom-1.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/batik-css-1.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/batik-constants-1.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/batik-bridge-1.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/batik-awt-util-1.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/batik-anim-1.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/attoparser-2.0.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/asm-7.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/ant-launcher-1.8.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/dss-demonstrations/dss-demo-webapp/target/dss-demo-webapp-5.6/WEB-INF/lib/ant-1.8.2.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
